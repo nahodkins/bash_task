@@ -1,0 +1,8 @@
+Create a bash script that will:
+- Create a new directory ‘working_dir’
+- Inside this directory create a file ‘file.txt’
+- Create a subdirectory ‘sub_dir’ inside ‘working_dir’
+- Outputs listing of all files and directories (long format) of ‘/home/{your_username}’ directory to file.txt
+- Copy working_dir/file.txt to working_dir/sub_dir/file.txt
+- Then download image https://www.python.org/static/apple-touch-icon-144x144-precomposed.png and save it inside ‘working_dir’ as ‘python.png’ (install additional software if needed)
+- Output the value of system $HOME variable into ‘file.txt’
